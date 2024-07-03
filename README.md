@@ -2,7 +2,7 @@
 
 Mi primer repositorio
 
-Me gusta mirar películas 🎬 y leer 📚 
+Me gusta mirar películas 🎬 y leer 📚
 
 Me gustan los animales 🐾
 
@@ -12,3 +12,5 @@ Finalizando con github
 
 Modifico listas
 para realizar mi ultima modificación
+
+Una linea mas
