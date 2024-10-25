@@ -2,7 +2,7 @@
 
 Mi primer repositorio en Github
 
-Me gusta mirar películas, series 🎬 y leer 📚
+Me gusta mirar películas 🎬 y leer 📚
 
 Me gustan los animales 🐾
 
