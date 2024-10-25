@@ -6,7 +6,7 @@ Me gusta mirar películas 🎬 y leer 📚
 
 Me gustan los animales 🐾
 
-Mi ultima linea en mi repositorio
+Una de las ultimas lineas en el repositorio
 
 Finalizando con github
 
